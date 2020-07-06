@@ -1,0 +1,4 @@
+{name: @holiday.name,
+date: @holiday.date,
+year_found: @holiday.year_found
+}

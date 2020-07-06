@@ -1,0 +1,5 @@
+@holidays.map do |holiday|
+  {name_of_holiday: holiday.name,
+date_of_holiday: holiday.date,
+year_founded: holiday.year_found}
+end
